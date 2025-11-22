@@ -24,9 +24,9 @@ VB5zk^5KRo]kjB:^>^>an41
 !s100 CVRz_NC>c:Df^6PL7[bX21
 Z9 OV;C;10.5b;63
 32
-Z10 !s110 1763840037
+Z10 !s110 1763844442
 !i10b 1
-Z11 !s108 1763840037.000000
+Z11 !s108 1763844442.000000
 Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3_tb.vhdp|
 Z13 !s107 C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3_tb.vhdp|
 !i113 1
@@ -38,14 +38,14 @@ R2
 R3
 R4
 R5
-DEx4 work 11 aac2m1p3_tb 0 22 B5zk^5KRo]kjB:^>^>an41
+Z16 DEx4 work 11 aac2m1p3_tb 0 22 B5zk^5KRo]kjB:^>^>an41
 l136
 L62
-VLF@khTD^_Mmd;ELUDK7_c2
-!s100 C29_acjo^Ym[?VLS14NF[1
+Z17 VLF@khTD^_Mmd;ELUDK7_c2
+Z18 !s100 C29_acjo^Ym[?VLS14NF[1
 R9
 32
-R10
+!s110 1763844443
 !i10b 1
 R11
 R12
@@ -54,41 +54,41 @@ R13
 R14
 R15
 Efind_errors
-Z16 w1763839450
+Z19 w1763844257
 R4
 R5
 R6
-Z17 8C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd
-Z18 FC:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd
+Z20 8C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd
+Z21 FC:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd
 l0
 L45
-VA><iM=b5LMlXHkT_WdzW`2
-!s100 [c`TJNTY7DNo?FA@76G2E2
+V@GFCS;3AHJ0lFDP]0K`Jl3
+!s100 R[2m;EN^U_Zi?JP3TE2<83
 R9
 32
 R10
 !i10b 1
 R11
-Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd|
-Z20 !s107 C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd|
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd|
+Z23 !s107 C:/Users/jlope/OneDrive/Documentos/FPGAs/FPGAs COURSE/Codes/vhdl_errors/AAC2M1P3/AAC2M1P3.vhd|
 !i113 1
 R14
 R15
 Anot_good
 R4
 R5
-DEx4 work 11 find_errors 0 22 A><iM=b5LMlXHkT_WdzW`2
+DEx4 work 11 find_errors 0 22 @GFCS;3AHJ0lFDP]0K`Jl3
 l52
 L51
-VOYD4d0D@fPb5hHWCXjUXV1
-!s100 KWJnWQF:@dKQ9[E;bofg?1
+VPDR:M[TlljVjVPC6_YzT=2
+!s100 0^OQZ[=Xl0`?<emhlY@<j1
 R9
 32
 R10
 !i10b 1
 R11
-R19
-R20
+R22
+R23
 !i113 1
 R14
 R15
